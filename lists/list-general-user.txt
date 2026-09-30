@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# naturalfinchname4/zapret-youtube 9b65868ed188
